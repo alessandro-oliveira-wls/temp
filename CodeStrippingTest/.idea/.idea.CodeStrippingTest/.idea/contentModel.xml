@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Unpreserved" t="Include">
+            <e p="Hook.cs" t="Include" />
+            <e p="Unpreserved.asmdef" t="Include" />
+          </e>
+          <e p="Usage" t="Include">
+            <e p="Teste1.cs" t="Include" />
+            <e p="Teste2.cs" t="Include" />
+            <e p="Teste3.cs" t="Include" />
+            <e p="Teste4.cs" t="Include" />
+            <e p="Teste5.cs" t="Include" />
+            <e p="Usage.asmdef" t="Include" />
+            <e p="ViewController.cs" t="Include" />
+          </e>
+          <e p="WithLinkXML" t="Include">
+            <e p="Hook.cs" t="Include" />
+            <e p="link.xml" t="Include" />
+            <e p="WithLinkXML.asmdef" t="Include" />
+          </e>
+          <e p="WithLinkXMLAndNameof" t="Include">
+            <e p="Hook.cs" t="Include" />
+            <e p="link.xml" t="Include" />
+            <e p="WithLinkXMLAndNameof.asmdef" t="Include" />
+          </e>
+          <e p="WithPreserve" t="Include">
+            <e p="Hook.cs" t="Include" />
+            <e p="WithPreserve.asmdef" t="Include" />
+          </e>
+          <e p="WithPreserveAndNameof" t="Include">
+            <e p="Hook.cs" t="Include" />
+            <e p="WithPreserveAndNameof.asmdef" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="CodeStrippingTest.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+      <e p="Unpreserved.csproj" t="IncludeRecursive" />
+      <e p="Usage.csproj" t="IncludeRecursive" />
+      <e p="WithLinkXML.csproj" t="IncludeRecursive" />
+      <e p="WithLinkXMLAndNameof.csproj" t="IncludeRecursive" />
+      <e p="WithPreserve.csproj" t="IncludeRecursive" />
+      <e p="WithPreserveAndNameof.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_CodeStrippingTest.-1073645959.00" t="ExcludeRecursive" />
+  </component>
+</project>

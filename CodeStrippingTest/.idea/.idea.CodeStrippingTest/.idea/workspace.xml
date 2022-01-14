@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26070a24-7f1c-45e6-9e52-98e2767ae664" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Usage/ViewController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/WithLinkXML/ReflectionInvoker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Teste1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Teste2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Teste3.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Teste4.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WithLinkXMLAndNameof/Hook.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ViewController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Unpreserved/Hook.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WithLinkXML/link.xml" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WithLinkXMLAndNameof/link.xml" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WithPreserve/Hook.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WithPreserveAndNameof/Hook.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Usage/link.xml" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WithLinkXML/Hook.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Usage/Teste5.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Usage/Teste4.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Usage/Teste2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Usage/Teste3.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Usage/ViewController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Usage/Teste1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="23T2pO86173HMku2B5Gt7pRDOoI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.50145435" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30017453" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="XThreadsFramesViewSplitterKey" value="0.3495935" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="33500">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="33500" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26070a24-7f1c-45e6-9e52-98e2767ae664" name="Default Changelist" comment="" />
+      <created>1641743938133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641743938133</updated>
+      <workItem from="1641743941172" duration="695000" />
+      <workItem from="1642110031612" duration="9134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="397" key="GridCell.Tab.0.bottom" timestamp="1642167007804">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="397" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1642167007804" />
+    <state width="1750" height="397" key="GridCell.Tab.0.center" timestamp="1642167007804">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="397" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1642167007804" />
+    <state width="1750" height="397" key="GridCell.Tab.0.left" timestamp="1642167007804">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="397" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1642167007804" />
+    <state width="1750" height="397" key="GridCell.Tab.0.right" timestamp="1642167007804">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="397" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1642167007804" />
+    <state width="1750" height="397" key="GridCell.Tab.1.bottom" timestamp="1642167007805">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="397" key="GridCell.Tab.1.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1642167007805" />
+    <state width="1750" height="397" key="GridCell.Tab.1.center" timestamp="1642167007805">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="397" key="GridCell.Tab.1.center/0.25.1792.1095@0.25.1792.1095" timestamp="1642167007805" />
+    <state width="1750" height="397" key="GridCell.Tab.1.left" timestamp="1642167007805">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="397" key="GridCell.Tab.1.left/0.25.1792.1095@0.25.1792.1095" timestamp="1642167007805" />
+    <state width="1750" height="397" key="GridCell.Tab.1.right" timestamp="1642167007805">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="397" key="GridCell.Tab.1.right/0.25.1792.1095@0.25.1792.1095" timestamp="1642167007805" />
+    <state width="1750" height="397" key="GridCell.Tab.2.bottom" timestamp="1642167007806">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="397" key="GridCell.Tab.2.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1642167007806" />
+    <state width="1750" height="397" key="GridCell.Tab.2.center" timestamp="1642167007806">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="397" key="GridCell.Tab.2.center/0.25.1792.1095@0.25.1792.1095" timestamp="1642167007806" />
+    <state width="1750" height="397" key="GridCell.Tab.2.left" timestamp="1642167007806">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="397" key="GridCell.Tab.2.left/0.25.1792.1095@0.25.1792.1095" timestamp="1642167007806" />
+    <state width="1750" height="397" key="GridCell.Tab.2.right" timestamp="1642167007806">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="397" key="GridCell.Tab.2.right/0.25.1792.1095@0.25.1792.1095" timestamp="1642167007806" />
+    <state width="1750" height="397" key="GridCell.Tab.3.bottom" timestamp="1642167007807">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="397" key="GridCell.Tab.3.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1642167007807" />
+    <state width="1750" height="397" key="GridCell.Tab.3.center" timestamp="1642167007806">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="397" key="GridCell.Tab.3.center/0.25.1792.1095@0.25.1792.1095" timestamp="1642167007806" />
+    <state width="1750" height="397" key="GridCell.Tab.3.left" timestamp="1642167007806">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="397" key="GridCell.Tab.3.left/0.25.1792.1095@0.25.1792.1095" timestamp="1642167007806" />
+    <state width="1750" height="397" key="GridCell.Tab.3.right" timestamp="1642167007807">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="397" key="GridCell.Tab.3.right/0.25.1792.1095@0.25.1792.1095" timestamp="1642167007807" />
+    <state x="564" y="255" key="RiderGenerateDialog" timestamp="1642167945177">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="564" y="255" key="RiderGenerateDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1642167945177" />
+    <state x="419" y="127" key="SettingsEditor" timestamp="1642168751686">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="419" y="127" key="SettingsEditor/0.25.1792.1095@0.25.1792.1095" timestamp="1642168751686" />
+  </component>
+</project>

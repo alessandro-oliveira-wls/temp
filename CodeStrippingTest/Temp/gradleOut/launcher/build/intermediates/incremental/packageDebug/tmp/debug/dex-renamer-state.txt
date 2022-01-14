@@ -1,0 +1,4 @@
+#Fri Jan 14 12:46:56 BRST 2022
+base.0=/Users/alessandro.oliveira/Documents/projects/CodeStrippingTest/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,3 @@
+<linker>
+    <assembly fullname="WithLinkXML" preserve="all"/>
+</linker>

@@ -1,0 +1,19 @@
+{
+    "name": "Usage",
+    "references": [
+        "WithLinkXML",
+        "WithPreserve",
+        "WithPreserveAndNameof",
+        "Unpreserved",
+        "WithLinkXMLAndNameof"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
